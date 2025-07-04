@@ -1,0 +1,12 @@
+{
+    "id": 0,
+    "name": "",
+    "typeId": 1,
+    "programId": 0,
+    "trailerLicenseStateId": 0,
+    "enabled": "true",
+    "containerGroupIds": [],
+    "containerZones": [],
+    "gatewayMonitorId": null,
+    "IsMonitorValidationRequired": "false"
+}

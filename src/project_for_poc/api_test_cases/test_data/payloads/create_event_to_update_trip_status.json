@@ -1,0 +1,74 @@
+{
+  "IsValidateConditionRequired": true,
+  "programId": 0,
+  "eventName": "Update The Name",
+  "eventDescription": "Created by API Automation",
+  "lastUpdatedBy": "",
+  "createdBy": "",
+  "acknowledgmentRequired": false,
+  "matchAny": true,
+  "enabled": "true",
+  "eventSeverity": 0,
+  "frequencyPerTrip": 1,
+  "isNewEvent": true,
+  "riskCategoryId": null,
+  "riskScore": null,
+  "ruleConditions": [
+    {
+      "category": {
+        "categoryId": 9,
+        "categoryName": "trip"
+      },
+      "variable1": {
+        "entities": [],
+        "allEntities": true,
+        "id": 0,
+        "name": null
+      },
+      "variable2": null,
+      "condition": {
+        "id": 0,
+        "name": "Update The Name"
+      },
+      "reference": {
+        "id1": 0,
+        "value1": "0",
+        "id2": 0,
+        "value2": ""
+      },
+      "reference2": {
+        "id1": 0,
+        "value1": "0",
+        "id2": 0,
+        "value2": ""
+      },
+      "matchAny": true,
+      "and": true,
+      "childRuleConditions": []
+    }
+  ],
+  "ruleActions": [
+    {
+      "actionTypeId": 2,
+      "actionTypeName": "Update Trip Status",
+      "actionVariableId1": 0,
+      "actionVariableValue1": "Update The Name",
+      "actionVariableId2": 0,
+      "actionVariableValue2": "",
+      "locationGroups": "",
+      "originGroups": "",
+      "stopGroups": "",
+      "productGroups": "",
+      "carriers": "",
+      "managingCarriers": "",
+      "shipToBillTos": "",
+	  "routingGroups": "",
+      "userGroups": "",
+      "containerGroups": "",
+      "departureReason": null,
+      "arrivalReason": null,
+      "tripAlarmed": null
+    }
+  ],
+  "ruleEventReasons": []
+}

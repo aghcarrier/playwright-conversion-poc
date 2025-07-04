@@ -1,0 +1,59 @@
+{
+  "enabled": true,
+  "tripOrigin": {
+    "driverName": "",
+    "driverCell": "",
+    "internalTripID": "",
+    "locations": [
+      {
+        "locationID": 0,
+        "locationName": "Update The Name"
+      }
+    ],
+    "plannedDepartureTime": null,
+    "actualDepartureTime": null
+  },
+  "waypoints": [],
+  "destinations": [],
+  "containers": [
+    {
+      "containerID": -1,
+      "containerName": "",
+      "zones": [
+        {
+          "zoneId": -1,
+          "zoneName": "",
+          "zoneType": "",
+          "monitors": [],
+          "zoneProducts": [
+            {
+              "productId": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "IsMonitorValidationRequired": false,
+  "programId": 0,
+  "tripTemplateId": 2,
+  "trailerID": null,
+  "preDepartureTimeInMinutes": 0,
+  "postArrivalTimeInMinutes": 0,
+  "notes": null,
+  "carrierId": null,
+  "managingCarrierId": null,
+  "parentSupplierId": null,
+  "tripStatus": "NotStarted",
+  "tripStatusGuid": "72978f22-e368-4779-86b6-239ead53bc2e",
+  "visibility": false,
+  "tripContinuationSettings": {
+    "segmentSettings": []
+  },
+  "reportingSettings": {
+    "segmentReportingSettings": []
+  },
+  "closedLoopSettings": {
+    "isClosedLoop": false
+  }
+}

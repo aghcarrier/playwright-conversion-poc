@@ -1,0 +1,14 @@
+{
+  "name": "Update The Name",
+  "typeId": 1,
+  "programId": 0,
+  "size": null,
+  "trailerLicense": null,
+  "trailerLicenseStateId": 0,
+  "unitId": null,
+  "enabled": "true",
+  "containerGroupIds": [],
+  "containerZones": [],
+  "gatewayMonitorId": null,
+  "IsMonitorValidationRequired": false
+}

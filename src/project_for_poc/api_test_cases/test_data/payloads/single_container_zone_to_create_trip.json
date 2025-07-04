@@ -1,0 +1,13 @@
+{
+  "zoneID": 0,
+  "zoneName": "",
+  "zoneType": "Frozen",
+  "monitors": [
+				   
+    {
+      "monitorID": 0,
+      "serialNumber": ""
+    }
+  ],
+  "zoneProducts": []
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Update The Zone Name",
+    "containerZoneSpecId": 0,
+    "typeId": "1",
+    "monitorIds": [
+        0
+    ],
+    "monitorsAddedDetails": [
+        {
+            "id": 0,
+            "name": "Update the Serial Number"
+        }
+    ]
+}
