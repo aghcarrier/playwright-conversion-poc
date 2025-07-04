@@ -1,0 +1,16 @@
+test_id,monitors,origin_location_name,stops_locations_names,product_name,device_simulator_file_name,number_of_protobufs_in_file,container_name,container_zone_names,container_group_name
+mary_kay_trip,HNN1100421,tx_dallas_mary_kay,"tx_houston_port, nld_rotterdam_vlaardingen_facility, nld_rotterdam_port, deu_oberding",DryIce,Prod_MaryKay_28432_HNN1100421_WithInvalidData_Temp+Out_1.csv,240,Mary Kay,Frozen Zone,All Containers
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
